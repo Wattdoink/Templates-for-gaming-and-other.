@@ -275,7 +275,7 @@ const GameComparison = () => {
                 <div>
                   <div className="flex justify-between text-sm mb-2">
                     <span className="text-orange-400">CS:GO</span>
-                    <span className="text-orange-400">1.86 million</span>
+                    <span className="text-orange-400">1.86M</span>
                   </div>
                   <div className="flex justify-between text-sm">
                     <span className="text-red-400">Valorant</span>
