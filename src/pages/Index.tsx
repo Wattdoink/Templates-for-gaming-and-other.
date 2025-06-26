@@ -73,7 +73,7 @@ const Index = () => {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 max-w-4xl mx-auto">
             <Card className="bg-black/40 border-orange-500/30 p-4 text-center">
               <Users className="h-8 w-8 text-orange-500 mx-auto mb-2" />
-              <div className="text-2xl font-bold text-white">30M+</div>
+              <div className="text-2xl font-bold text-white">1.86 million</div>
               <div className="text-sm text-gray-400">CS:GO Players</div>
             </Card>
             <Card className="bg-black/40 border-red-500/30 p-4 text-center">
